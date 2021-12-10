@@ -1,0 +1,24 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">portfolio-item</custom-type>
+        <custom-type translate="1">testimonials</custom-type>
+        <custom-type translate="1">slides</custom-type>
+        <custom-type translate="1">carousels</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_category</taxonomy>
+        <taxonomy translate="1">testimonials</taxonomy>
+        <taxonomy translate="1">slides_category</taxonomy>
+        <taxonomy translate="1">carousels_category</taxonomy>
+        <taxonomy translate="0">publisher</taxonomy>
+    </taxonomies>
+    <admin-texts>
+		<key name="qode_options_startit">
+			<key name="meta_keywords" />
+			<key name="meta_description" />
+			<key name="404_title" />
+			<key name="404_text" />
+			<key name="404_back_to_home" />
+		</key>
+	</admin-texts>  
+</wpml-config>

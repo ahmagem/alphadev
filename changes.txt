@@ -1,0 +1,340 @@
+4.3.1
+- Fixed theme registration notice not removing once theme is activated
+
+4.3
+- Added PHP8 compatibility
+- Theme Options, Shortcodes and Custom Post Types are now disabled if theme purchase code is not registered on live server
+- Updated Select Core to 2.2.3
+- Updated Layer Slider Builder to 6.11.8
+
+4.2.1
+- Updated Revolution Slider plugin to 6.4.11
+- Updated Select Core to 2.2.2
+
+4.2
+- Added compatibility with Qi Addons for Elementor plugin
+- Added WordPress 5.7.1 compatibility
+- Added WooCommerce 5.2.2 compatibility
+- Updated WPBakery Page Builder to 6.6.0
+- Updated Revolution Slider plugin to 6.4.8
+- Updated Layer Slider Builder to 6.11.7
+
+4.1.1
+- Minor fixes
+
+4.1
+- Added WordPress 5.5 compatibility
+- Added WooCommerce 4.4.1 compatibility
+- Updated Select Core to 2.2.1
+- Updated Revolution Slider to 6.2.22
+- Updated WPBakery page builder to 6.3.0
+- Updated LayerSlider to 6.11.2
+
+4.0
+- Added Elementor Page Builder compatibility
+- Added 'Image With Text' shortcode
+- Added  WooCommerce 4.0.1 compatibility
+- Updated Select Core to 2.2
+
+3.2.1
+- Updated Select Core to 2.1.1
+- Improved import functionality
+
+3.2
+- Added WooCommerce 3.9.1 compatibility
+- Added StartIt Dashboard
+- Added Welcome Page
+- Updated Revolution Slider to 6.1.8
+- Updated WP Bakery Page Builder to 6.1
+- Updated Layer Slider to 6.10.0
+- Updated Select Core to 2.1
+- Updated Child theme to 2.0.1
+- Removed unused file twitter-redirect.php from Select Twitter Feed plugin
+- Updated Select Twitter Feed plugin to 1.0.1
+- Improved Import
+- Changed Select Options Position
+- Fixed fatal error in Select Options -> Social when Twitter feed plugin is not installed
+- Improved style for cookies consent checkbox
+
+3.1
+- Added WooCommerce 3.7.0 compatibility
+- Updated Select Core Plugin to 2.0.4
+- Updated Revolution Slider to 6.1.1
+- Updated WP Bakery Page Builder to 6.0.5
+- Updated Layer Slider to 6.9.2
+- Updated Select Core Plugin pot language file
+- Fixed SEO Meta Title field
+- Fixed Paragraph color to apply to lists
+
+3.0.7
+- Updated Revolution Slider to 6.0.9
+- Fixed broken dynamic styles
+- Fixed footer top columns alignment option
+- Fixed menu order saving
+- Fixed FullScreen menu scroll
+
+3.0.6
+- Added WooCommerce 3.6.5 compatibility
+- Updated WPBakery Page Builder to 6.0.5
+- Updated Revolution Slider to 6.0.5
+- Improved Accordion styles
+
+3.0.5
+- Added WooCommerce 3.6.3 compatibility
+- Updated Select Core Plugin to 2.0.3
+- Fixed global options for elements
+
+3.0.4
+- Updated Visual Composer to version 6.0.1
+- Fixed Select Portfolio Images (multiply images)
+
+3.0.3
+- Updated Select Core Plugin to 2.0.2
+- Updated Visual Composer to version 6.0
+- Updated Layer Slider to 6.8.4
+- Improved theme functionality
+
+3.0.2
+- Updated Nonce on ajax functions
+- Fixed button animation for Firefox
+- Fixed admin js to use strict operating context
+- Fixed style dynamic loading
+- Fixed smooth scroll
+
+3.0.1
+- Fixed Like functionality bug
+- Updated Select Core to version 2.0.1
+
+3.0 Major Updates
+- Added WooCommerce 3.6.1 compatibility
+- Updated Select Core to version 2.0.0
+- Updated Visual Composer to version 5.7
+- Updated Layer Slider to 6.8.3
+- Improved theme templates, modules and functions
+- Improved theme security
+- Improved theme performance (Added logic to create static css, js files instead of php (style_dynamic.php, style_dynamic_responsive.php and default_dynamic.php))
+- Improved options image pop-up editor for dashboard panel
+- Improved comments list
+- Escaped all variables, text domains etc.
+- Renamed all functions, hooks, templates with unique name
+- Removed unnecessary functions, variables etc.
+- Fixed theme text domain
+- Fixed bugs
+
+2.7
+- Added WordPress 5 compatibility
+- Added WooCommerce 3.5.3 compatibility
+- Added comment approval box for GDPR compliance
+- Updated Visual Composer to 5.6
+- Updated Revolution Slider to 5.4.8.1
+- Updated Envato Market to 2.0.1
+- Updated Select Core to 1.3.2	
+- Updated Select Twitter Feed to 1.0.1
+- Fixed http/https link
+- Fixed Google API bug
+- Fixed Clients shortcode alt text bug
+- Fixed wide menu on variable product page bug
+- Fixed portfolio filtering by Count
+- Fixed Fullwidth Slider speed interval
+- Fixed Twitter API connection
+- Improved Blog: Gallery page template
+- Improved Countdown shortcode
+- Improved button animation for Edge
+- Improved pagination
+- Improved 404 page
+
+2.6
+- Added WooCommerce 3.4.3 compatibility
+- Updated Visual Composer to 5.5.2
+- Updated Revolution Slider to 5.4.8
+- Updated Layer Slider to version 6.7.6
+
+2.5
+- Added compatibility with PHP 7.2 
+- Added Woocommerce 3.3.3 compatibility
+- Updated Visual Composer to 5.4.7
+- Updated Revolution Slider to 5.4.7.2
+- Updated Layer Slider to version 6.7.1
+- Updated Envato Market to 2.0.0
+
+2.4.1
+- Updated WPBakery Page Builder to 5.4.5
+- Updated Layer Slider to version 6.6.5
+- Updated Revolution slider to version 5.4.6.4
+- Fixed problem with <p> tags in author description
+
+2.4
+- Added WooCommerce 3.2.5 compatibility
+- Added Envato Market plugin as required
+- Added recommended plugins (WooCommerce and Contact Form 7)
+- Updated Visual Composer to 5.4.4
+- Updated Layer Slider to version 6.6.4
+- Updated Revolution slider to version 5.4.6.3.1
+- Fixed potential security issue when saving theme options
+- Fixed checkout City & State labels
+- Improved menu import functionality
+
+2.3
+- Added WooCommerce 3+ compatibility
+- Updated Visual Composer to 5.1.1
+- Updated Layer Slider to version 6.3.0
+- Updated Revolution slider to version 5.4.3.1
+- Fixed https problem with links
+
+2.2
+- Added WooCommerce 2.6.9 compatibility
+- Updated Layer Slider to version 6.1.0
+- Updated Revolution slider to version 5.3.1.5
+- Fixed applying colors for light and dark header skin
+
+2.1.4
+- Updated Visual Composer to 5.0.1
+- Updated Layer Slider to version 6.0.6
+- Fixed the animation speed script for Testimonials
+
+2.1.3
+- Updated Font Awesome pack to version 4.7.0
+- Updated Visual Composer to 5.0
+- Updated Layer Slider to version 6.0.5
+- Updated Revolution slider to version 5.3.0.2
+- Updated Select Core plugin to version 1.3
+- Fixed the issue with arrow icon for 1st level menu items dropdown
+- Fixed the issue with navigation arrows on blog single posts
+- Fixed the image width issue on single product pages
+
+2.1.2
+- Fixed the issue with Contact Form 7 in the footer area
+- Updated translation files
+- Updated Google Fonts
+
+2.1.1
+- Updated Dripicons to version 2.0
+- Fixed bug with multiple carousels having same number of elements on same page
+
+2.1
+- Added  Wordpress 4.6.1 compatibility
+- Updated Visual Composer to 4.12.1
+- Fixed problem with show more in 'Portfolio List' shortcode when some category is choosen
+- Fixed problem with sidebar per page and general setting
+- Fixed problem with user avatar on blog single not recognizing https - restored default wp function for avatar
+
+2.0
+- Added Revolution slider
+- Added Angled Shape in Background functionality
+- Added new Testimonials layout
+- Added Info Box Shortcode
+- Added Pricing Info shortcode
+- Added Pricing Slider shortcode
+- Added Service Table shortcode
+- Added Animations Holder shortcode
+- Added Clients shortcode
+- Added new header type - Overlapping header
+- Added overlapping header in grid option
+- Added overlapping header wrapper background color option
+- Added overlapping header wrapper background transparency option
+- Added overlapping  menu background color option
+- Added overlapping  menu background transparency option
+- Added overlapping header height
+- Added new header type - Fullscreen header
+- Added fullscreen header in grid option
+- Added fullscreen header background color option
+- Added fullscreen header background transparency option
+- Added fullscreen header height
+- Added option Choose header type - per page
+- Added options for background color and transparency for each header per page
+- Added option for Header in grid for each header per page
+- Added option to enable header top per pages
+- Added option for Search in grid per pages
+- Added WP Search widget in Visual Composer
+- Added 3d mobile showcase shortcode
+- Added Woocommerce 2.6.4 compatibility
+- Added Blog Gallery List
+- Added option for Google maps api key.
+- Added Show top bar in mobile header option
+- Added option for label New in menu featured icons
+- Updated Google Fonts
+- Updated FontAwesome icons
+- Updated Layer Slider to version 5.6.9
+- Updated Select Core plugin to version 1.2
+- Updated Select Slider with new options
+- Updated Contact Form Custom Styles options
+- Updated Blog Options for Blog Gallery
+- Updated Countdown shortcode
+- Updated Counter shortcode
+- Updated Image Gallery shortcode
+- Updated TGM plugin activation
+- Updated pot language file
+- Fixed Pretty Photo plugin
+- Fixed bug with button styles
+- Fixed single product review input fields layout
+- Fixed bug on call to action shortcode responsive
+- Fixed Icon with text shortcode - Icon left from title
+- Fixed bug with Select Slider navigation arrows when thumbnails are disabled
+- Fixed bug with Select Carousel when image change effect is activated
+- Fixed content bottom area functionality
+- Fixed Elements Tab Options
+- Fixed bug with blog sidebar
+- Fixed bug with wide menu closing on item click
+- Fixed bug with change header style on scroll.
+- Fixed bug with vertical menu not using first main color for hover
+- Fixed bug with page background color not working
+
+1.4.1
+- Fixed WooCommerce 2.6.1 out of dated file
+- Fixed facebook and twitter social share
+
+1.4
+- Added WooCommerce 2.6 compatibility
+- Updated Visual Composer to 4.12
+- Updated Layer Slider to 5.6.8
+- Updated pot file for translation
+
+1.3.1
+- Updated Visual Composer to 4.11.2.1
+- Updated Layer Slider to 5.6.6
+
+1.3
+- Added  Wordpress 4.5 compatibility
+- Updated Visual Composer to 4.11.1
+- Fixed bug with product review stars loosing color on focus lost
+- Fixed woocommerce account pages css
+- Fixed woocommerce single product css
+- Fixed bug with woocommerce category and tag pages not using default shop page sidebar
+- Fixed bug with dynamic css
+- Fixed bug with vertical menu responsive
+- Fixed bug with "Use Link as Anchor" in icon shortcode
+- Fixed bug with dropdown for selecting variations on variable product page
+- Fixed creating 'phantom' tab in Tabs shortcode
+
+1.2
+- Added Woocommerce 2.5.2 compatibility
+- Updated Visual Composer plugin to version 4.9.2
+- Fixed bug with page transitions
+- Fixed bug fith elements holder
+- Fixed bug with boxed layout responsivness
+- Fixed bug with anchors and smooth page transitions
+- Fixed bug with slider position when side area is opened
+- Fixed bug with carousel image change on hover
+
+1.1
+- Added Woocommerce 2.4.12 compatibility
+- Updated Select Core plugin to version 1.1
+- Updated Visual Composer plugin to version 4.9.1
+- Fixed text background color for sticky menu
+- Fixed header top bar dependency of fealds in Select options
+- Added Font Awesome icon "Dashboard"
+- Fixed bug with sidebar on archive
+- Fixed bug with top bar visibility over slider
+- Fixed bug with anchors in mobile menu
+- Fixed css for Woocommerce account page
+- Fixed css for Woocommerce checkout page
+- Fixed portfolio list links on articles when Show More button is clicked
+- Fixed bug with links on images in Select Blog List shortcode boxed type
+- Fixed bug with theme installation on PHP versions 5.3 and 5.4
+- Fixed bug with Font options not working
+- Fixed bug with Sticky Sidebar
+- Fixed bug with counter when random type is selected
+- Fixed bug with product details button not translatable
+- Fixed bug with SEO meta fields.
+- Fixed spacing issue causing 404 error in WP admin
+- Fixed Google Map Warning for Sensor parameter no longer being required
